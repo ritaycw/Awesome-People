@@ -11,4 +11,4 @@ Inside the file, put a random awesome fact about yourself or an awesome fact tha
 Then make a pull request back to this repository.  In canvas, turn in the URL to your pull request. 
 
 
-# Please note, this repository is public to the world.  Anyone can see it.  Anything you put in this respository can be seen by anyone.  If you don't want to put your first and last name here, choose something else you think is awesome.
+# Please note, this repository is public to the world.  Anyone can see it.  Anything you put in this repository can be seen by anyone.  If you don't want to put your first and last name here, choose something else you think is awesome.
